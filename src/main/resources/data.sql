@@ -1,0 +1,10 @@
+insert into entries (name,number,type) values ('John Doe', '415-555-1111', 'Home');
+insert into entries (name,number,type) values ('John Doe', '415-555-2222', 'Work');
+insert into entries (name,number,type) values ('John Doe', '415-555-3333', 'Cell');
+insert into entries (name,number,type) values ('Jane Doe', '415-555-4444', 'Home');
+insert into entries (name,number,type) values ('Jane Doe', '415-555-5555', 'Fax');
+insert into entries (name,number,type) values ('Jane Doe', '415-555-6666', 'Cell');
+insert into entries (name,number,type) values ('Jack Doe', '415-555-7777', 'Home');
+insert into entries (name,number,type) values ('Jack Doe', '415-555-8888', 'Work');
+insert into entries (name,number,type) values ('Jill Doe', '415-555-9999', 'Home');
+insert into entries (name,number,type) values ('Jill Doe', '415-555-0000', 'Work');
